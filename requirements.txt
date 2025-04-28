@@ -1,5 +1,4 @@
-streamlit
-PyMuPDF
+streamlit==1.10.0  # or the version you're using
+PyMuPDF==1.18.0
 pandas
-pickle
 scikit-learn
