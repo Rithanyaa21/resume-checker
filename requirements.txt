@@ -2,7 +2,7 @@ streamlit==1.10.0
 pandas
 scikit-learn
 altair==4.2.0
-PyMuPDF
+PyMuPDF==1.18.19
 python-docx
 nltk
 fitz
